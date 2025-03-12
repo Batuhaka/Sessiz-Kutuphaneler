@@ -36,12 +36,12 @@ Kütüphanelerde sessiz çalışma ortamını korumak için belirlenen desibel s
 
 | **Ekipman** | **Görsel** |
 |------------|-----------|
-| ESP32 (İletişim ve kontrol) | <img src="LINK" width="200"> |
-| MAX9814 (Ses sensörü) | <img src="LINK" width="200"> |
-| LED (Uyarı sistemi) | <img src="LINK" width="200"> |
-| Dirençler | <img src="LINK" width="200"> |
+| ESP32 (İletişim ve kontrol) | <img src="https://github.com/Aytacus/Sessiz-Kutuphaneler/blob/main/%C3%96neri%20Raporu/Figure/ESP32.jpg" width="200"> |
+| MAX9814 (Ses sensörü) | <img src="https://github.com/Aytacus/Sessiz-Kutuphaneler/blob/main/%C3%96neri%20Raporu/Figure/Max9814.jpg" width="200"> |
+| LED (Uyarı sistemi) | <img src="https://github.com/Aytacus/Sessiz-Kutuphaneler/blob/main/%C3%96neri%20Raporu/Figure/Led.jpg" width="200"> |
+| Dirençler(Temsili Resim) | <img src="https://github.com/Aytacus/Sessiz-Kutuphaneler/blob/main/%C3%96neri%20Raporu/Figure/Direnc.jpg" width="200"> |
 | Breadboard | <img src="https://github.com/Aytacus/Sessiz-Kutuphaneler/blob/main/%C3%96neri%20Raporu/Figure/Breadboard.jpg" width="200"> |
-| Jumper Kablolar | <img src="LINK" width="200"> |
+| Jumper Kablolar | <img src="https://github.com/Aytacus/Sessiz-Kutuphaneler/blob/main/%C3%96neri%20Raporu/Figure/jumper.jpg" width="200"> |
 
 ### Kullanılacak Yazılımlar
 - **Telegram Api**: API işlemleri ve bildirim göndermek için
