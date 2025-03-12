@@ -1,6 +1,10 @@
-## -- IoT Donem Projesi --
-# Sessiz Kütüphaneler: Gürültü İzleme ve IoT Entegrasyonu
+<div align="center">
 
+# IoT Dönem Projesi
+
+</div>
+
+# Sessiz Kütüphaneler: Gürültü İzleme ve IoT Entegrasyonu
 ## 1. Proje Konusu
 Bu proje, kütüphanelerde belirlenen desibel seviyesini aşan gürültüleri tespit eden ve IoT teknolojileri ile bildirim gönderen bir sistem geliştirilmesini amaçlamaktadır.
 
