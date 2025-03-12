@@ -40,7 +40,7 @@ Kütüphanelerde sessiz çalışma ortamını korumak için belirlenen desibel s
 | MAX9814 (Ses sensörü) | <img src="LINK" width="200"> |
 | LED (Uyarı sistemi) | <img src="LINK" width="200"> |
 | Dirençler | <img src="LINK" width="200"> |
-| Breadboard | <img src="LINK" width="200"> |
+| Breadboard | <img src="https://github.com/Aytacus/Sessiz-Kutuphaneler/blob/main/%C3%96neri%20Raporu/Figure/Breadboard.jpg" width="200"> |
 | Jumper Kablolar | <img src="LINK" width="200"> |
 
 ### Kullanılacak Yazılımlar
