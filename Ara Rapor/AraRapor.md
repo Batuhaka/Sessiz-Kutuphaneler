@@ -59,12 +59,12 @@ Yeni sistemde, arka arkaya alınan 10 ses seviyesi ölçümünden en az 3 tanesi
 İlerleyen aşamalarda, bu ses seviyesi sınıflandırmasına göre 2 yeşil, 1 sarı, 1 turuncu ve 1 kırmızı LED ile görsel bir uyarı sistemi kurulacak ve kritik eşikler aşıldığında Telegram üzerinden mesaj gönderilecek şekilde sistem tamamlanacaktır.
 
 <p align="center">
-  <img src="https://github.com/Aytacus/Sessiz-Kutuphaneler/raw/main/Ara%20Rapor/Figures/TemsiliDevre.jpg" alt="Şekil 1: Temsili Devre" width="500"/>
+  <img src="https://github.com/Aytacus/Sessiz-Kutuphaneler/raw/main/Ara%20Rapor/Figure/TemsiliDevre.jpg" alt="Şekil 1: Temsili Devre" width="500"/>
 </p>
 <p align="center"><strong>Şekil 1: Temsili Devre</strong></p>
 
 <p align="center">
-  <img src="https://github.com/Aytacus/Sessiz-Kutuphaneler/raw/main/Ara%20Rapor/Figures/GercekDevre.jpg" alt="Şekil 2: Gerçek Devre" width="500" height="400"/>
+  <img src="https://github.com/Aytacus/Sessiz-Kutuphaneler/raw/main/Ara%20Rapor/Figure/GercekDevre.jpg" alt="Şekil 2: Gerçek Devre" width="500" height="400"/>
 </p>
 <p align="center"><strong>Şekil 2: Gerçek Devre</strong></p>
 
