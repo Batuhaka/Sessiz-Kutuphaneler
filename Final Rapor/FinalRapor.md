@@ -224,7 +224,7 @@ Proje sürecinde çekilen fotoğraflar ve devre şemaları:
   <img src="https://github.com/Aytacus/Sessiz-Kutuphaneler/raw/main/Final%20Rapor/Figure/ProjeGoruntu5.jpg" alt="Proje Görüntüsü 5" width="400"/>
 </p>
 <p align="center"><strong>Şekil 6: Telegram API ile botun ilgili kişiye gönderdiği mesaj</strong></p>
-## 5. Elde Edilen Sonuçlar
+
 
 ### 5.1 Teknik Başarımlar
 
